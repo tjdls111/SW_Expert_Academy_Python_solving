@@ -1,11 +1,7 @@
 # SW_Expert_Academy_Python_solving
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 풉니다. SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합니다.
 
-### 2021.7.
-## SW Expert Academy
-
-[SWEA 링크!](https://swexpertacademy.com/main/main.do)
-
+## 2021.7.
 ### 난이도  1 문제들
 
 - [2072.홀수만 더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=10&pageIndex=1)
