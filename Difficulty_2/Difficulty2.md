@@ -11,5 +11,6 @@
   - 리스트명.sort(), del 리스트명[삭제할 인덱스], round(값, 몇째자리에서 반올림할건지)
   - round(값)만 하면 소수점 첫째자리에서 반올림함. 2라고 하면 소수점 3째자리에서 반올림해서 2째자리까지 보여줌. -1이라고 하면 1의 자리에서 반올림.
 - [1983. 조교의 성적 매기기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
-  - 리스트, 딕셔너리 이해. 변수명 정하기 어려웠음... k가 겹쳐서 문제 생기기도 했음. 
+  - 리스트, 딕셔너리를 잘 이해해야 할 듯..!
+  - 변수명 정하기 어려웠음... k가 겹쳐서 문제 생기기도 했음. 
   - 딕셔너리에서 value값을 가지고 정렬하기. ```new_students=sorted(students.items(),key=lambda x:x[1], reverse=True)```
