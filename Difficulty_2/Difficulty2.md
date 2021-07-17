@@ -15,3 +15,5 @@
   - 변수명 정하기 어려웠음... k가 겹쳐서 문제 생기기도 했음. 
   - 딕셔너리에서 value값을 가지고 정렬하기. ```new_students=sorted(students.items(),key=lambda x:x[1], reverse=True)```
 - [1970.쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2)
+- [1966. 숫자를 정렬하자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PrmyKAWEDFAUq&categoryId=AV5PrmyKAWEDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2)
+  - 정렬은 그냥 sort()로 했는데, 정렬도 하나 하나 했어야 하는 건가..? 나중에 정렬도 직접 해봐야지.
