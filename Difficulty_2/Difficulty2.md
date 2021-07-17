@@ -14,3 +14,4 @@
   - 리스트, 딕셔너리를 잘 이해해야 할 듯..!
   - 변수명 정하기 어려웠음... k가 겹쳐서 문제 생기기도 했음. 
   - 딕셔너리에서 value값을 가지고 정렬하기. ```new_students=sorted(students.items(),key=lambda x:x[1], reverse=True)```
+- [1970.쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PsIl6AXIDFAUq&categoryId=AV5PsIl6AXIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=2)
