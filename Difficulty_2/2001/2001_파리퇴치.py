@@ -1,7 +1,7 @@
 # 2001. 파리 퇴치
-import sys
-
-sys.stdin = open("../2001_파리퇴치_input.txt")
+# import sys
+#
+# sys.stdin = open("../2001_파리퇴치_input.txt")
 
 T = int(input())
 for tc in range(1, T + 1):
