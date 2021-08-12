@@ -54,6 +54,8 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [1953. 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=1954&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
   - 사방으로 이동할 때 인덱스를 어떻게 바꿔야 하는지 알면 될 듯! 
   - 만약 범위를 벗어나거나, 이미 다른 숫자로 채워져 있으면 (처음에는 0으로 초기화) 방향 바꾸는 식으로.
+- [2001. 파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=2001&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+  - for문 4개로 풀었다.
 
 
 ### 난이도 3 문제들
