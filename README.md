@@ -69,3 +69,10 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 
 ### 난이도 4 ⭐⭐⭐⭐
 - [1210. Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+### 난이도 5 ⭐⭐⭐⭐⭐
+
+- [1242. 암호코드 스캔](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD)
+  - 런타임 에러와 함께 힘든 시간을 보냈다. (`input().strip()`을 꼭 해야 함/ 메모리도 고려하기 - 리스트로 입력받을 필요 없는 것을 문자열로 받음) 
+  - [포스팅](https://velog.io/@tjdls111/SWEA-1242-%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%BA%94)
+
