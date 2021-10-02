@@ -65,6 +65,8 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 다 나열해서 풀었다.. 하나 하나 경우를 뽑아서.. (예. 1 <-> 'ONE')
 - [11315.오목 판정](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXaSUPYqPYMDFASQ&categoryId=AXaSUPYqPYMDFASQ&categoryType=CODE&problemTitle=11315&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 - [1240. 단순 2진 암호 코드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD)
+- [1244. 최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)
+  - 메모이제이션을 활용함
 
 
 ### 난이도 4 ⭐⭐⭐⭐
@@ -75,4 +77,7 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [1242. 암호코드 스캔](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD)
   - 런타임 에러와 함께 힘든 시간을 보냈다. (`input().strip()`을 꼭 해야 함/ 메모리도 고려하기 - 리스트로 입력받을 필요 없는 것을 문자열로 받음) 
   - [포스팅](https://velog.io/@tjdls111/SWEA-1242-%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%BA%94)
-
+- [1247. 최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)
+  - 백준에서 [외판원 순회2](https://www.acmicpc.net/problem/10971) 풀었던 것을 활용함.
+  - 입력을 잘 받아서, 순회 비용 행렬은 따로 만들어야 함.
+  - 출발점 != 도착점이라는 점도 다름.
