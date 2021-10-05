@@ -67,6 +67,10 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [1240. 단순 2진 암호 코드](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15FZuqAL4CFAYD)
 - [1244. 최대 상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD)
   - 메모이제이션을 활용함
+- [5201 컨테이너 운반](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+- [5202 화물 도크](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+  - 그리디! 회의실 배정 문제와 같다.
+- [5203 베이비진 게임](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
 
 
 ### 난이도 4 ⭐⭐⭐⭐
