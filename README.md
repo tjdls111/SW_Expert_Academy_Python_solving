@@ -4,7 +4,7 @@
 
 SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합니다.
 
-### 난이도  1 문제들 ⭐
+### 난이도  1 ⭐
 
 - [2072.홀수만 더하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QSEhaA5sDFAUq&categoryId=AV5QSEhaA5sDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=10&pageIndex=1)
 - [2071.평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=1&contestProbId=AV5QRnJqA5cDFAUq&categoryId=AV5QRnJqA5cDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=1&pageSize=10&pageIndex=1)
@@ -34,7 +34,7 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 
 
 
-### 난이도  2 문제들 ⭐⭐
+### 난이도  2 ⭐⭐
 
 - [1926. 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
   - str(), count()
@@ -58,7 +58,7 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - for문 4개로 풀었다.
 
 
-### 난이도 3 문제들 ⭐⭐⭐
+### 난이도 3 ⭐⭐⭐
 - [1206.](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV134DPqAA8CFAYh&categoryId=AV134DPqAA8CFAYh&categoryType=CODE&problemTitle=1206&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 - [1209. Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE&problemTitle=1209&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
 - [1221.GNS](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14jJh6ACYCFAYD&categoryId=AV14jJh6ACYCFAYD&categoryType=CODE&problemTitle=GNS&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
@@ -79,7 +79,7 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
 - [1242. 암호코드 스캔](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15JEKKAM8CFAYD)
-  - 런타임 에러와 함께 힘든 시간을 보냈다. (`input().strip()`을 꼭 해야 함/ 메모리도 고려하기 - 리스트로 입력받을 필요 없는 것을 문자열로 받음) 
+  - 런타임 에러와 함께 힘든 시간을 보냈다. (`input().strip()`/ 메모리도 고려하기 - 리스트로 입력받을 필요 없는 것을 문자열로 받음) 
   - [포스팅](https://velog.io/@tjdls111/SWEA-1242-%EC%95%94%ED%98%B8%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%BA%94)
 - [1247. 최적 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15OZ4qAPICFAYD)
   - 백준에서 [외판원 순회2](https://www.acmicpc.net/problem/10971) 풀었던 것을 활용함.
