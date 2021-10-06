@@ -87,6 +87,9 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 
 ### 난이도 4 ⭐⭐⭐⭐
 - [1210. Ladder1](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14ABYKADACFAYh&categoryId=AV14ABYKADACFAYh&categoryType=CODE&problemTitle=1210&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+- [2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB)
+  - 모든 경우를 고려해서 dfs로 풀었다! 즉 4X4 격자판의 모든 위치에서 출발해봤고, 각각의 경우에 6번 동서남북으로 가봤다. (격자판 벗어나지 않게 범위 체크는 필수 !)
+  - 대충 4X4X(4^6) 이니까  65536번 계산을 하는 것 같다..! 횟수가 작아서 시간 안에 통과하는 것 같다 ~ 
 
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
