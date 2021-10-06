@@ -38,24 +38,36 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 
 - [1926. 간단한 369게임](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PTeo6AHUDFAUq&categoryId=AV5PTeo6AHUDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
   - str(), count()
+  
 - [2007. 패턴 마디의 길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
   - 문자열 슬라이싱
+  
 - [1989.초심자의 회문검사](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PyTLqAf4DFAUq&categoryId=AV5PyTLqAf4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
   - 슬라이싱. n[시작 인덱스 : 끝 인덱스 : 간격]
+  
 - [1986. 지그재그 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PxmBqAe8DFAUq&categoryId=AV5PxmBqAe8DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
+
 - [1984. 중간 평균값 구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5Pw_-KAdcDFAUq&categoryId=AV5Pw_-KAdcDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
   - 리스트명.sort(), del 리스트명[삭제할 인덱스], round(값, 몇째자리에서 반올림할건지)
   - round(값)만 하면 소수점 첫째자리에서 반올림함. 2라고 하면 소수점 3째자리에서 반올림해서 2째자리까지 보여줌. -1이라고 하면 1의 자리에서 반올림.
+  
 - [1983. 조교의 성적 매기기](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5PwGK6AcIDFAUq&categoryId=AV5PwGK6AcIDFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
   - 리스트, 딕셔너리를 잘 이해해야 할 듯..!
   - 변수명 정하기 어려웠음... k가 겹쳐서 문제 생기기도 했음. 
   - 딕셔너리에서 value값을 가지고 정렬하기. ```new_students=sorted(students.items(),key=lambda x:x[1], reverse=True)```
+  
 - [2005. 파스칼의 삼각형](https://swexpertacademy.com/main/code/problem/problemDetail.do?problemLevel=2&contestProbId=AV5P0-h6Ak4DFAUq&categoryId=AV5P0-h6Ak4DFAUq&categoryType=CODE&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=2&pageSize=10&pageIndex=1)
+
 - [1953. 달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=1954&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
   - 사방으로 이동할 때 인덱스를 어떻게 바꿔야 하는지 알면 될 듯! 
   - 만약 범위를 벗어나거나, 이미 다른 숫자로 채워져 있으면 (처음에는 0으로 초기화) 방향 바꾸는 식으로.
+  
 - [2001. 파리 퇴치](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PzOCKAigDFAUq&categoryId=AV5PzOCKAigDFAUq&categoryType=CODE&problemTitle=2001&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
   - for문 4개로 풀었다.
+  
+- [1970 쉬운 거스름돈](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PsIl6AXIDFAUq)
+
+  
 
 
 ### 난이도 3 ⭐⭐⭐
