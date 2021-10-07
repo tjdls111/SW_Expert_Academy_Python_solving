@@ -83,6 +83,12 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [5202 화물 도크](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
   - 그리디! 회의실 배정 문제와 같다.
 - [5203 베이비진 게임](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+- [5208. 전기버스2](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+  - dfs + 가지치기
+- [5205. 퀵 정렬](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+  - 말 그대로 퀵 정렬을 구현하는 문제
+- [5207. 이진 탐색](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+  - 일반 이진 탐색에 조금 더 고려해야 함(flag 'R'인지, 'L'인지 두어서, 그걸 또 만나지 않게 ! )
 
 
 ### 난이도 4 ⭐⭐⭐⭐
@@ -90,6 +96,11 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [2819. 격자판의 숫자 이어 붙이기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7I5fgqEogDFAXB)
   - 모든 경우를 고려해서 dfs로 풀었다! 즉 4X4 격자판의 모든 위치에서 출발해봤고, 각각의 경우에 6번 동서남북으로 가봤다. (격자판 벗어나지 않게 범위 체크는 필수 !)
   - 대충 4X4X(4^6) 이니까  65536번 계산을 하는 것 같다..! 횟수가 작아서 시간 안에 통과하는 것 같다 ~ 
+- [5209. 최소 생산 비용](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
+  - 백 트래킹 ! 순열 ! 
+- [1865. 동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc&categoryId=AV5LuHfqDz8DFAXc&categoryType=CODE&problemTitle=1865&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+  - 5209 문제와 비슷하다. 0과 1 사이를 곱한다. -> 계속 작아진다는 것을 생각하기.
+  - 소수점 출력 헷갈리지 말기.
 
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
