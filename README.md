@@ -104,6 +104,10 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [4366. 정식이의 은행 업무](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd)
   - n진수를 10진수로 바꾸는 것
   - 브루트포스로 풀었다
+- [1486. 장훈이의 높은 선반](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b7Yf6ABcBBASw)
+  - 부분 집합..! 백트래킹! 
+- [1861. 정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
+  - 다음 방으로 갈 수 있는지 체크 -> 연속 체크된 것 개수를 세는 아이디어.. (나는 못 떠올렸고 설명 듣고서야 풀었다.)
 
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
