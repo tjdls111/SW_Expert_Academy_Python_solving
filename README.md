@@ -101,6 +101,9 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [1865. 동철이의 일 분배](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LuHfqDz8DFAXc&categoryId=AV5LuHfqDz8DFAXc&categoryType=CODE&problemTitle=1865&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
   - 5209 문제와 비슷하다. 0과 1 사이를 곱한다. -> 계속 작아진다는 것을 생각하기.
   - 소수점 출력 헷갈리지 말기.
+- [4366. 정식이의 은행 업무](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWMeRLz6kC0DFAXd)
+  - n진수를 10진수로 바꾸는 것
+  - 브루트포스로 풀었다
 
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
