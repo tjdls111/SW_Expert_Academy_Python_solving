@@ -128,3 +128,5 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [5656. 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
   - 중복 순열 구하기, dfs, copy.deepcopy()...
   - 시뮬레이션 문제..! 벽돌 깨뜨린 후, 빈 공간 있으면 아래로 내려주기
+- [2105. 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
+  - 대각선 방향 ! DFS ! -직진할지, 꺾을지 
