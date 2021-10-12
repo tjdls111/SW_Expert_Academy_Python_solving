@@ -125,3 +125,6 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 
 - [4012. 요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
   - 조합 구하기
+- [5656. 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
+  - 중복 순열 구하기, dfs, copy.deepcopy()...
+  - 시뮬레이션 문제..! 벽돌 깨뜨린 후, 빈 공간 있으면 아래로 내려주기
