@@ -89,6 +89,9 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 말 그대로 퀵 정렬을 구현하는 문제
 - [5207. 이진 탐색](https://swexpertacademy.com/main/learn/course/lectureProblemViewer.do)
   - 일반 이진 탐색에 조금 더 고려해야 함(flag 'R'인지, 'L'인지 두어서, 그걸 또 만나지 않게 ! )
+- [2814. 최장 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GOPPaAeMDFAXB)
+  - 최단 경로가 아니라 최장 경로를 구하다니 특이한 듯..ㅋㅋ
+  - 모든 정점에서 dfs를 시작해 봤다.
 
 
 ### 난이도 4 ⭐⭐⭐⭐
