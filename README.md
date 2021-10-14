@@ -92,6 +92,8 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
 - [2814. 최장 경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GOPPaAeMDFAXB)
   - 최단 경로가 아니라 최장 경로를 구하다니 특이한 듯..ㅋㅋ
   - 모든 정점에서 dfs를 시작해 봤다.
+- [5248. 그룹 나누기]
+  - 서로소 집합
 
 
 ### 난이도 4 ⭐⭐⭐⭐
@@ -111,6 +113,15 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 부분 집합..! 백트래킹! 
 - [1861. 정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
   - 다음 방으로 갈 수 있는지 체크 -> 연속 체크된 것 개수를 세는 아이디어.. (나는 못 떠올렸고 설명 듣고서야 풀었다.)
+
+- [5247.연산]
+  - BFS 로 풀었다. 범위 체크, 방문 체크
+- [5249. 최소 신장 트리]
+  - 크루스칼로 풀었다.
+- [5250. 최소 비용]
+  - 다익스트라를 조금 응용했다
+- [5251. 최소 이동 거리]
+  - 다익스트라~
 
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
