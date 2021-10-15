@@ -94,6 +94,8 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 모든 정점에서 dfs를 시작해 봤다.
 - [5248. 그룹 나누기]
   - 서로소 집합
+  
+  
 
 
 ### 난이도 4 ⭐⭐⭐⭐
@@ -113,7 +115,6 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 부분 집합..! 백트래킹! 
 - [1861. 정사각형 방](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5LtJYKDzsDFAXc)
   - 다음 방으로 갈 수 있는지 체크 -> 연속 체크된 것 개수를 세는 아이디어.. (나는 못 떠올렸고 설명 듣고서야 풀었다.)
-
 - [5247.연산]
   - BFS 로 풀었다. 범위 체크, 방문 체크
 - [5249. 최소 신장 트리]
@@ -122,6 +123,11 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 다익스트라를 조금 응용했다
 - [5251. 최소 이동 거리]
   - 다익스트라~
+- [1249. 보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD)
+  - 다익스트라 ! 최소 비용 문제랑 비슷한 느낌
+- [1251. 하나로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15StKqAQkCFAYD)
+  - 최소 비용 신장 트리..! 프림 알고리즘으로 풀었다.
+- [7465. 창용 마을 무리의 개수](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWngfZVa9XwDFAQU)
 
 ### 난이도 5 ⭐⭐⭐⭐⭐
 
@@ -132,6 +138,11 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 백준에서 [외판원 순회2](https://www.acmicpc.net/problem/10971) 풀었던 것을 활용함.
   - 입력을 잘 받아서, 순회 비용 행렬은 따로 만들어야 함.
   - 출발점 != 도착점이라는 점도 다름.
+
+### 난이도 6 ⭐⭐⭐⭐⭐⭐
+
+- [1795.인수의 생일파티](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4xuqCqBeUDFAUx)
+  - 다익스트라 두 번으로 해결되는 문제..!! 간선 반대로 받는 아이디어 생각하기 어려웠다.
 
 
 
