@@ -150,12 +150,33 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 문제 링크를 공
 
 - [4012. 요리사](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeUtVakTMDFAVH)
   - 조합 구하기
+  
 - [5656. 벽돌 깨기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo)
   - 중복 순열 구하기, dfs, copy.deepcopy()...
   - 시뮬레이션 문제..! 벽돌 깨뜨린 후, 빈 공간 있으면 아래로 내려주기
+  
 - [2105. 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
   - 대각선 방향 ! DFS ! -직진할지, 꺾을지 
-- [5658 보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+  
+- [5658. 보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+  
   - 구현 문제
   - 중복 제거를 위해서 set 사용함.
   - 회전 구현을 위해서 pop, insert(0)를 사용함.
+  
+- [2382. 미생물 격리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl)
+
+  - 시뮬레이션, 구현
+
+  - 여러 조건들을 꼼꼼히 고려해야 함
+
+    - 약품 부분으로 가면 방향 반대로, 수는 절반으로
+
+      - 수가 0이 되면 군집 없애기
+
+    - 여러 군집이 만나면 수는 다 더하고, 방향은 제일 큰 군집 쪽으로
+
+      - 이 부분을 while 두 개로 함.
+      - 마지막 부분을 반영하는 로직을 열심히 생각함.
+
+      
