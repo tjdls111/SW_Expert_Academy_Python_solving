@@ -155,3 +155,7 @@ SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합�
   - 시뮬레이션 문제..! 벽돌 깨뜨린 후, 빈 공간 있으면 아래로 내려주기
 - [2105. 디저트 카페](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu)
   - 대각선 방향 ! DFS ! -직진할지, 꺾을지 
+- [5658 보물상자 비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo)
+  - 구현 문제
+  - 중복 제거를 위해서 set 사용함.
+  - 회전 구현을 위해서 pop, insert(0)를 사용함.
