@@ -2,7 +2,7 @@
 [SW Expert Academy](https://swexpertacademy.com/main/main.do)의 문제를 풉니다. 
 
 
-SWEA의 정책 상 문제를 가져오는 것은 안되고, 링크를 공유합니다.
+SWEA의 정책 상 문제를 가져오는 것은 안되고, 문제 링크를 공유합니다.
 
 ### 난이도  1 ⭐
 
